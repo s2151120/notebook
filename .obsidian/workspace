@@ -7,11 +7,8 @@
         "id": "4a0b7e1566bb3fb5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "permNotes/Assumptions under the competitive market model.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "permNotes/Assumptions under the competitive market model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
