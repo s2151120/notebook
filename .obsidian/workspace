@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "91253f17416633a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a0b7e1566bb3fb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "permNotes/Assumptions under the competitive market model.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a1c1477cf57a41d",
+    "type": "split",
+    "children": [
+      {
+        "id": "55ec8d4e6f589aad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed29fa04b7035b67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f83d64944a6e6b03",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61598eec4cd86e80",
+    "type": "split",
+    "children": [
+      {
+        "id": "4057c8e9b207df17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d994436fbc0d184a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "permNotes/Assumptions under the competitive market model.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4a0b7e1566bb3fb5",
+  "lastOpenFiles": [
+    "permNotes/Assumptions under the competitive market model.md"
+  ]
+}
