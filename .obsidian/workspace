@@ -7,8 +7,11 @@
         "id": "4a0b7e1566bb3fb5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "textNotes/capitalism.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "textNotes/capitalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,10 @@
   },
   "active": "4a0b7e1566bb3fb5",
   "lastOpenFiles": [
+    "textNotes/capitalism.md",
+    "textNotes/capitalist crises.md",
+    "textNotes/affects of banking monopoly.md",
+    "Untitled.md",
     "permNotes/Assumptions under the competitive market model.md"
   ]
 }
